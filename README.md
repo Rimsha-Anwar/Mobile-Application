@@ -15,6 +15,9 @@ https://trello.com/b/WmMDhDwm/high-fidelity-mobile-app
 ![Shop](https://user-images.githubusercontent.com/56793337/95056665-7c395200-070e-11eb-8cfa-71f6a217c0a6.PNG)
 ![signOut](https://user-images.githubusercontent.com/56793337/95056676-7f344280-070e-11eb-922e-caee31af63ca.PNG)
 
+#Title : PTCL Touch App
+#Features: Billing System , Compalint Registered, Online Service, WishList, Account Info.
+#Why : because i know how to use this app its features etc that is why i'm Choosing this App for Prototype. Also this app contain too many screens,
 
 
 
